@@ -63,9 +63,9 @@ export const Banner = () => {
               with the MERN stack. I invite you to meet me a little more and
               know about my work.
             </p>
-            <button onClick={() => console.log("connect")}>
+            <a href="./CV_Edinael_Sanguino.pdf" download>
               Resume CV <ArrowRightCircle size={25} />
-            </button>
+            </a>
           </Col>
           <Col xs={12} md={6} xl={5}>
             <img src={headerImg} alt="Header Img" />

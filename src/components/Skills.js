@@ -38,6 +38,7 @@ export const Skills = () => {
                   <img
                     src="https://res.cloudinary.com/dho6leigc/image/upload/v1659062528/js_q1i6md.png"
                     alt="JavaScript"
+                    loading="lazy"
                   />
                   <h5>JavaScript</h5>
                 </div>
@@ -45,6 +46,7 @@ export const Skills = () => {
                   <img
                     src="https://res.cloudinary.com/dho6leigc/image/upload/v1659062596/react_f7pdei.png"
                     alt="React"
+                    loading="lazy"
                   />
                   <h5>ReactJS</h5>
                 </div>
@@ -52,6 +54,7 @@ export const Skills = () => {
                   <img
                     src="https://res.cloudinary.com/dho6leigc/image/upload/v1659063744/html_fuyaq0.png"
                     alt="HTML"
+                    loading="lazy"
                   />
                   <h5>HTML</h5>
                 </div>
@@ -59,6 +62,7 @@ export const Skills = () => {
                   <img
                     src="https://res.cloudinary.com/dho6leigc/image/upload/v1659063786/css-3_p8wssy.png"
                     alt="CSS"
+                    loading="lazy"
                   />
                   <h5>CSS</h5>
                 </div>
@@ -66,6 +70,7 @@ export const Skills = () => {
                   <img
                     src="https://res.cloudinary.com/dho6leigc/image/upload/v1659062659/nodejs_1_loqz2p.png"
                     alt="NodeJS"
+                    loading="lazy"
                   />
                   <h5>NodeJS</h5>
                 </div>
@@ -73,6 +78,7 @@ export const Skills = () => {
                   <img
                     src="https://res.cloudinary.com/dho6leigc/image/upload/v1659063891/redux_hkv50b.png"
                     alt="Redux"
+                    loading="lazy"
                   />
                   <h5>Redux</h5>
                 </div>
@@ -80,6 +86,7 @@ export const Skills = () => {
                   <img
                     src="https://res.cloudinary.com/dho6leigc/image/upload/v1659062742/typescript_1_f1sjpg.png"
                     alt="TypeScript"
+                    loading="lazy"
                   />
                   <h5>TypeScript</h5>
                 </div>
@@ -87,6 +94,7 @@ export const Skills = () => {
                   <img
                     src="https://res.cloudinary.com/dho6leigc/image/upload/v1659062810/python_hy6few.png"
                     alt="Python"
+                    loading="lazy"
                   />
                   <h5>Python</h5>
                 </div>
@@ -94,6 +102,7 @@ export const Skills = () => {
                   <img
                     src="https://res.cloudinary.com/dho6leigc/image/upload/v1659063053/sql-server_uegmkk.png"
                     alt="SQL"
+                    loading="lazy"
                   />
                   <h5>SQL</h5>
                 </div>
@@ -101,6 +110,7 @@ export const Skills = () => {
                   <img
                     src="https://res.cloudinary.com/dho6leigc/image/upload/v1659063189/mongo_kmhkwd.webp"
                     alt="MongoDB"
+                    loading="lazy"
                   />
                   <h5>MongoDB</h5>
                 </div>
@@ -108,6 +118,7 @@ export const Skills = () => {
                   <img
                     src="https://res.cloudinary.com/dho6leigc/image/upload/v1659063263/mongoose_w6utbx.png"
                     alt="Mongoose"
+                    loading="lazy"
                   />
                   <h5>Mongoose</h5>
                 </div>
@@ -115,6 +126,7 @@ export const Skills = () => {
                   <img
                     src="https://res.cloudinary.com/dho6leigc/image/upload/v1659063356/jest-logo_jspiq5.png"
                     alt="Jest"
+                    loading="lazy"
                   />
                   <h5>Jest</h5>
                 </div>
@@ -122,6 +134,7 @@ export const Skills = () => {
                   <img
                     src="https://res.cloudinary.com/dho6leigc/image/upload/v1659063471/cypress_ftpgxc.png"
                     alt="Cypress"
+                    loading="lazy"
                   />
                   <h5>Cypress</h5>
                 </div>
@@ -129,6 +142,7 @@ export const Skills = () => {
                   <img
                     src="https://res.cloudinary.com/dho6leigc/image/upload/v1659063531/git_bqjovi.png"
                     alt="Git"
+                    loading="lazy"
                   />
                   <h5>Git</h5>
                 </div>
@@ -136,6 +150,7 @@ export const Skills = () => {
                   <img
                     src="https://res.cloudinary.com/dho6leigc/image/upload/v1659063672/github_2_rxonk9.png"
                     alt="GitHub"
+                    loading="lazy"
                   />
                   <h5>GitHub</h5>
                 </div>
