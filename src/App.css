@@ -290,6 +290,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   display: flex;
   align-items: center;
   cursor: pointer;
+  width: 190px;
 }
 .banner a svg {
   font-size: 25px;
