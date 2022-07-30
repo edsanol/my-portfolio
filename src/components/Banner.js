@@ -63,7 +63,7 @@ export const Banner = () => {
               with the MERN stack. I invite you to meet me a little more and
               know about my work.
             </p>
-            <a href="./CV_Edinael_Sanguino.pdf" download>
+            <a href="./EdinaelCV.pdf" download>
               Resume CV <ArrowRightCircle size={25} />
             </a>
           </Col>
