@@ -22,7 +22,7 @@ export const Projects = () => {
       githubUrlMovil: "https://github.com/edsanol/GoodFood-react-native",
       demoUrlWeb: "https://good-food-topv22.netlify.app",
       demoUrlMovil:
-        "https://drive.google.com/file/d/1zI-5a6Pha4sR1o0B3KYEXHOrWZnW4UhV/view?usp=sharing",
+        "https://drive.google.com/file/d/1X5-Z7C24BXRPk0Xo7fEygfrsH3xckasP/view?usp=sharing",
     },
     {
       title: "Ultrasonic Levitator",
@@ -33,6 +33,25 @@ export const Projects = () => {
       githubUrl: "https://github.com/edsanol/levitador-ultrasonico",
       demoUrl:
         "https://drive.google.com/drive/folders/1a2_YR97QL0CVfiuOYqJJ27zj9dIS2s3I?usp=sharing",
+    },
+    {
+      title: "sales system",
+      description:
+        "sales systems and inventory control to company in the commercial sector La Bodega de la Moda",
+      imgUrl: "https://i.postimg.cc/Fz0YwjRf/Menu-principal.jpg",
+      // githubUrl: "https://github.com/edsanol/levitador-ultrasonico",
+      demoUrl:
+        "https://drive.google.com/drive/folders/1DQmiEX1zU6oH7IGQJO7QQPcef5cJCWLz?usp=sharing",
+    },
+    {
+      title: "cartesian manipulator",
+      description:
+        "kinematic and dynamic programming and simulation of a cartesian robot with six degrees of freedom",
+      imgUrl:
+        "https://res.cloudinary.com/dho6leigc/image/upload/v1659894081/Manipulador_Cartesiano_Cap_eehjmf.jpg",
+      githubUrl: "https://github.com/edsanol/manipulador-cartesiano",
+      demoUrl:
+        "https://res.cloudinary.com/dho6leigc/video/upload/v1659843488/manipulador-cartesiano-video_weQOMyxn_ywxozm.mp4",
     },
   ];
 
